@@ -48,4 +48,3 @@ Simple NPM Package Boilerplate
   - [`6`]() &mdash; Run `np --no-2fa` to publish.
     <br/>
     <br/>
-# npm-package
