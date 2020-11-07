@@ -1,0 +1,29 @@
+{
+  "name": "ab-hooks",
+  "version": "1.1.2",
+  "description": "My frequently used hooks",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "types": "./types/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anubra266/ab-hooks.git"
+  },
+  "keywords": [
+    "hooks"
+  ],
+  "author": "anubra266",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anubra266/ab-hooks/issues"
+  },
+  "homepage": "https://github.com/anubra266/ab-hooks#readme",
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  }
+}
