@@ -43,8 +43,12 @@ Simple NPM Package Boilerplate
   - [`2`]() &mdash; Install dependencies with `npm i` or `yarn`.
   - [`3`]() &mdash; Code Changes.
   - [`4`]() &mdash; Run `npx tsc --allowJs` for Types declaration.
+  - [`4.01`]() &mdash; You could create @anubra/npm-package package.
   - [`5`]() &mdash; Push to Remote.
   - [`5`]() &mdash; Install `np` with `sudo npm i np -g`.
   - [`6`]() &mdash; Run `np --no-2fa` to publish.
     <br/>
     <br/>
+
+  When using scoped types package;
+  
