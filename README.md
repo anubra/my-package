@@ -34,7 +34,7 @@ Simple NPM Package Boilerplate
 <br />
 <br />
 
-  <pre>npm i <a href="https://www.npmjs.com/package/my-package">my-package</a></pre>
+  <pre>npm i <a href="https://www.npmjs.com/package/my-package">@anubra/my-package</a></pre>
   <br />
 </div>
 
@@ -49,6 +49,3 @@ Simple NPM Package Boilerplate
   - [`6`]() &mdash; Run `np --no-2fa` to publish.
     <br/>
     <br/>
-
-  When using scoped types package;
-  
