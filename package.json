@@ -8,6 +8,7 @@
   },
   "types": "./types/index.d.ts",
   "scripts": {
+    "build": "np --no-2fa",
     "test": "echo \"Error: no test specified\" "
   },
   "repository": {
