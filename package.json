@@ -8,7 +8,7 @@
   },
   "types": "./types/index.d.ts",
   "scripts": {
-    "build": "np --no-2fa",
+    "release": "np --no-2fa",
     "test": "echo \"Error: no test specified\" "
   },
   "repository": {
@@ -26,5 +26,9 @@
   "homepage": "https://github.com/anubra/my-package#readme",
   "devDependencies": {
     "typescript": "^4.0.5"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/",
+    "access": "public"
   }
 }
