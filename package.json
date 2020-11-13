@@ -26,8 +26,5 @@
   "homepage": "https://github.com/anubra/my-package#readme",
   "devDependencies": {
     "typescript": "^4.0.5"
-  },
-  "publishConfig": {
-    "access": "public"
   }
 }
